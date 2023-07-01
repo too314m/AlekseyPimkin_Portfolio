@@ -2,7 +2,7 @@
 In this repository I would like to show Data Analytics project I performed to introduce skills and overall vision of data storytelling 
 
 ## Project 1: SLA Dashboard aka Process Minig Dashboard
-### SLA Dashboard that estimates downtime of business processes on every step to show to management real picture of how business goes.
+### SLA Dashboard that estimates downtime of business processes on every step to show to management bottle neck and real overall picture of how business flow goes.
 - Interview of Process Owners to get "how-is-it" workflow and document it by draw.io
 - Extraction and Transformation of business process Logs by SQL
 - Load logs to Decisions Process Mining tool to analyse "how-it-is" workflow and compare it with "how-is-it"
@@ -17,19 +17,19 @@ In this repository I would like to show Data Analytics project I performed to in
 - Getting feedback
 - Built automative scheduled email reporting system by Power Automate flow development
 
-
 ## Project 2: KPI Dashboard
-### KPI Dashboard to estimate Department Performance over a time period based on PC activity, Communication activity and actual tasks done.
+### KPI Dashboard to estimate Department Performance over a time period based on PC activity, Communication activity and actual job done.
 - Interview of Process Owners to get "how-is-it" workflow and document it by draw.io
 - Built data extraction and collection process from 5 sources to store it in DWH by importing .csv via SQL and scrapping by python via API. Also manage update / archivation approach and schedule
 - Load all data to Power BI and Transform it by Power Query and DAX
 - Manage design and visualization to maximize efficiency of dashboard for end-user
+- As a part of Summary page we used Stephen Few best practice visualization by table with sparklinec and conditional formating
 - Analyze worflow and adjust the report for better UX
 - Present developed tool and found insights to requester
 - Set a scheduled refresh for Power BI Dataset 
 
 ## Project 3: Super Scatterplot
-### Creation a powerfull tool by default Power BI feature to oversee every team performance (Advanced Scatterplot)
+### Creation a powerfull tool by using default Power BI features only to assess every team performance (Advanced Scatterplot)
 - Create basic Scatter plot in Power BI
 - Create a Parameter for each Axis and set it as constant line to separate the scatter by 4 quadrants
 - By parameter's slicer, create possibility to manually adjust quadrants - ability to model a different scenarios in Analysis
