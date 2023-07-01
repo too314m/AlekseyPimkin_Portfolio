@@ -16,8 +16,8 @@ In this repository I would like to show Data Analytics project I performed to in
 - Presentation to reporter by Keynote / PowerPoint
 - Getting feedback
 - Built automative scheduled email reporting system by Power Automate flow development
-![](https://github.com/too314m/AlekseyPimkin_Portfolio/blob/main/images/SCR-20230701-wpg.png)
-![](https://github.com/too314m/AlekseyPimkin_Portfolio/blob/main/images/SCR-20230701-wpj.png)
+![](https://github.com/too314m/AlekseyPimkin_Portfolio/blob/main/images/SCR-20230701-xb4.png)
+![](https://github.com/too314m/AlekseyPimkin_Portfolio/blob/main/images/SCR-20230701-xb4.png)
 
 ## [Project 2: KPI Dashboard](https://github.com/too314m/KPI_Dashboard)
 ### KPI Dashboard to estimate Department Performance over a time period based on PC activity, Communication activity and actual job done.
