@@ -1,7 +1,7 @@
 # Aleksey Pimkin Portfolio
 In this repository I would like to show Data Analytics project I performed to introduce skills and overall vision of data storytelling 
 
-## Project 1: Downtime Dashboard aka Process Minig Dashboard
+## Project 1: SLA Dashboard aka Process Minig Dashboard
 ### SLA Dashboard that estimates downtime of business processes on every step to show to management real picture of how business goes.
 - Interview of Process Owners to get "how-is-it" workflow and document it by draw.io
 - Extraction and Transformation of business process Logs by SQL
@@ -15,12 +15,27 @@ In this repository I would like to show Data Analytics project I performed to in
 - Analyse developed dashboard to get insights of an issue analyzing
 - Presentation to reporter by Keynote / PowerPoint
 - Getting feedback
-- Built automative scheduled email reporting system by Power Automate
+- Built automative scheduled email reporting system by Power Automate flow development
 
 
-*Project 2: KPI Dashboard
-KPI Dashboard to estimate Department Performance over a time period based on PC activity, Communication activity and actual tasks done.
+## Project 2: KPI Dashboard
+### KPI Dashboard to estimate Department Performance over a time period based on PC activity, Communication activity and actual tasks done.
+- Interview of Process Owners to get "how-is-it" workflow and document it by draw.io
+- Built data extraction and collection process from 5 sources to store it in DWH by importing .csv via SQL and scrapping by python via API. Also manage update / archivation approach and schedule
+- Load all data to Power BI and Transform it by Power Query and DAX
+- Manage design and visualization to maximize efficiency of dashboard for end-user
+- Analyze worflow and adjust the report for better UX
+- Present developed tool and found insights to requester
+- Set a scheduled refresh for Power BI Dataset 
 
-*Project 3: Super Scatterplot
-Creation a powerfull tool by default Power BI feature to oversee every team performance (Advanced Scatterplot)
-
+## Project 3: Super Scatterplot
+### Creation a powerfull tool by default Power BI feature to oversee every team performance (Advanced Scatterplot)
+- Create basic Scatter plot in Power BI
+- Create a Parameter for each Axis and set it as constant line to separate the scatter by 4 quadrants
+- By parameter's slicer, create possibility to manually adjust quadrants - ability to model a different scenarios in Analysis
+- Add a Field Parameters of Quadrant Number, Sales Team and Project Manager
+- Add createed Field Parameter as a Legend of Scatterplot so now it's possible to change color scheme
+- Additionally put all three field as a Slicers - add possibility to filter data by these categories and see results in different color legend ways
+- Extra step - to copy each slicer and change its visual type to a barchart. Put every barchart under correspondent slicer so we can see actual color of category we would like to filter
+- Create a measure to hide such barchart of slicers which are not selected in Field Parameters
+- Enjoy powerfull and pretty tool for your Analysis
