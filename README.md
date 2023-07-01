@@ -17,7 +17,7 @@ In this repository I would like to show Data Analytics project I performed to in
 - Getting feedback
 - Built automative scheduled email reporting system by Power Automate flow development
 
-## Project 2: KPI Dashboard
+## [Project 2: KPI Dashboard](https://github.com/too314m/KPI_Dashboard)
 ### KPI Dashboard to estimate Department Performance over a time period based on PC activity, Communication activity and actual job done.
 - Interview of Process Owners to get "how-is-it" workflow and document it by draw.io
 - Built data extraction and collection process from 5 sources to store it in DWH by importing .csv via SQL and scrapping by python via API. Also manage update / archivation approach and schedule
@@ -28,7 +28,7 @@ In this repository I would like to show Data Analytics project I performed to in
 - Present developed tool and found insights to requester
 - Set a scheduled refresh for Power BI Dataset 
 
-## Project 3: Super Scatterplot
+## [Project 3: Super Scatterplot](https://github.com/too314m/SuperScatterplot)
 ### Creation a powerfull tool by using default Power BI features only to assess every team performance (Advanced Scatterplot)
 - Create basic Scatter plot in Power BI
 - Create a Parameter for each Axis and set it as constant line to separate the scatter by 4 quadrants
