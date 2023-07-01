@@ -16,6 +16,8 @@ In this repository I would like to show Data Analytics project I performed to in
 - Presentation to reporter by Keynote / PowerPoint
 - Getting feedback
 - Built automative scheduled email reporting system by Power Automate flow development
+![](https://github.com/too314m/AlekseyPimkin_Portfolio/blob/main/images/SCR-20230701-wpg.png)
+![](https://github.com/too314m/AlekseyPimkin_Portfolio/blob/main/images/SCR-20230701-wpj.png)
 
 ## [Project 2: KPI Dashboard](https://github.com/too314m/KPI_Dashboard)
 ### KPI Dashboard to estimate Department Performance over a time period based on PC activity, Communication activity and actual job done.
@@ -26,7 +28,8 @@ In this repository I would like to show Data Analytics project I performed to in
 - As a part of Summary page we used Stephen Few best practice visualization by table with sparklinec and conditional formating
 - Analyze worflow and adjust the report for better UX
 - Present developed tool and found insights to requester
-- Set a scheduled refresh for Power BI Dataset 
+- Set a scheduled refresh for Power BI Dataset
+![](https://github.com/too314m/AlekseyPimkin_Portfolio/blob/main/images/SCR-20230701-wp4.png)
 
 ## [Project 3: Super Scatterplot](https://github.com/too314m/SuperScatterplot)
 ### Creation a powerfull tool by using default Power BI features only to assess every team performance (Advanced Scatterplot)
@@ -39,3 +42,4 @@ In this repository I would like to show Data Analytics project I performed to in
 - Extra step - to copy each slicer and change its visual type to a barchart. Put every barchart under correspondent slicer so we can see actual color of category we would like to filter
 - Create a measure to hide such barchart of slicers which are not selected in Field Parameters
 - Enjoy powerfull and pretty tool for your Analysis
+![](https://github.com/too314m/AlekseyPimkin_Portfolio/blob/main/images/SCR-20230701-wps.png)
