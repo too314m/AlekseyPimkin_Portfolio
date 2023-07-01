@@ -1,7 +1,7 @@
-# Aleksey Pimkin Portfolio
+# Aleksey Pimkin - Data Analitic - Portfolio
 In this repository I would like to show Data Analytics project I performed to introduce skills and overall vision of data storytelling 
 
-## Project 1: SLA Dashboard aka Process Minig Dashboard
+## [Project 1: SLA Dashboard aka Process Minig Dashboard](https://github.com/too314m/SLA-Dashboard)
 ### SLA Dashboard that estimates downtime of business processes on every step to show to management bottle neck and real overall picture of how business flow goes.
 - Interview of Process Owners to get "how-is-it" workflow and document it by draw.io
 - Extraction and Transformation of business process Logs by SQL
