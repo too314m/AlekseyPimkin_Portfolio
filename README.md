@@ -1,8 +1,8 @@
-# AlekseyPimkin_Portfolio
+# Aleksey Pimkin Portfolio
 In this repository I would like to show Data Analytics project I performed to introduce skills and overall vision of data storytelling 
 
-## Project 1: Downtime Dashboard aka Process
-SLA Dashboard that estimates downtime of business processes on every step to show to management real picture of how business goes.
+## Project 1: Downtime Dashboard aka Process Minig Dashboard
+### SLA Dashboard that estimates downtime of business processes on every step to show to management real picture of how business goes.
 - Interview of Process Owners to get "how-is-it" workflow and document it by draw.io
 - Extraction and Transformation of business process Logs by SQL
 - Load logs to Decisions Process Mining tool to analyse "how-it-is" workflow and compare it with "how-is-it"
