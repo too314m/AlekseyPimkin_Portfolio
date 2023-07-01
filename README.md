@@ -29,7 +29,7 @@ In this repository I would like to show Data Analytics project I performed to in
 - Analyze worflow and adjust the report for better UX
 - Present developed tool and found insights to requester
 - Set a scheduled refresh for Power BI Dataset
-![](https://github.com/too314m/AlekseyPimkin_Portfolio/blob/main/images/SCR-20230701-wp4.png)
+![](https://github.com/too314m/AlekseyPimkin_Portfolio/blob/main/images/SCR-20230701-x2d.png)
 
 ## [Project 3: Super Scatterplot](https://github.com/too314m/SuperScatterplot)
 ### Creation a powerfull tool by using default Power BI features only to assess every team performance (Advanced Scatterplot)
