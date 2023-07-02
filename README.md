@@ -1,4 +1,4 @@
-# Aleksey Pimkin - Data Analitic - Portfolio
+# Aleksey Pimkin - Data Analytic - Portfolio
 In this repository I would like to show Data Analytics project I performed to introduce skills and overall vision of data storytelling 
 
 ## [Project 1: SLA Dashboard aka Process Minig Dashboard](https://github.com/too314m/SLA-Dashboard)
